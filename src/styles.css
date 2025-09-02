@@ -1,0 +1,21 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  background: yellow;
+  padding: 10px;
+  font-size: 24px;
+}
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 70%;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.options {
+  margin: 15px;
+}
